@@ -5,24 +5,17 @@ hide:
 ---
 <!--
 CHECKLIST FOR THIS PAGE:
-- [ ] Replace [YOUR NAME] with your full name (3 places)
-- [ ] Replace [YOUR JOB TITLE] with your current or target role
-- [ ] Replace [YOUR TAGLINE] with a short phrase describing your focus
-- [ ] Rewrite the About Me paragraph with your own words
-- [ ] Replace assets/images/profile.png with your actual photo (keep the filename or update it below)
 - [ ] Replace assets/images/about.png with your own image (a field photo, map, or workspace shot)
 - [ ] Edit the skill cards to match your actual skills (add, remove, or rename cards as needed)
 - [ ] Update GitHub and LinkedIn links in the Connect section
 - [ ] Add your CV PDF to docs/assets/ and update the filename in the Download CV button
 -->
 
-
-
 <div class="hero">
-  <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <img src="assets/images/profile.png" alt="[Mia Ciceri]" class="profile-photo">
+  <h1>Mia Ciceri</h1>
+  <p><strong>GIS Analyst</strong></p>
+  <p><em>Geospatial Analysis | Urban Planning | AI/ML</em></p>
 </div>
 
 ---
@@ -32,15 +25,9 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
-
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+Hello! My name is Mia Ciceri, and I am a geospatial analyst with a background in geography, urban planning, and machine learning. I work on extracting actionable insights from remote sensing units and large spatial datasets
+using Python, Google Earth Engine, R, and open-source GIS tools. My abilities in ArcGIS, QGIS, AutoCAD, RStudio, and VSCODE help shape my end-to-end GIS workflows into professional, presentation-ready final deliverables. I am passionate about applying
+GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban planning. I am currently seeking opportunities in GIS analysis, mapping, and computer engineering in Florida.
 
 </div>
 
@@ -53,7 +40,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/CV.pdf){ .md-button }
 
 
 ---
@@ -66,51 +53,28 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
     ---
 
-    - QGIS, ArcGIS Pro, Google Earth Engine
-    - GDAL / OGR, GRASS GIS
-    - Multispectral and SAR image analysis
-    - Cloud Native Geospatial (COG, STAC, Zarr)
+    - ArcGIS Pro, QGIS, Google Earth Engine
+    - Landsat, Sentinel, Terra/Aqua imagery
+    - Multispectral and singleband image analysis
+    - Vector geometry & raster geometry
 
 -   :material-code-braces:{ .lg .middle } **Programming**
 
     ---
 
-    - Python — GeoPandas, NumPy, Pandas, Matplotlib
+    - Python — GeoPandas, NumPy, Matplotlib
     - R — sf, terra, ggplot2
-    - JavaScript — Leaflet, MapLibre GL
-    - SQL, PostgreSQL + PostGIS
+    - SQL
+    - JavaScript, HTML
 
--   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
-
-    ---
-
-    - Supervised classification — Random Forest, XGBoost
-    - Deep learning for image segmentation — U-Net, SAM
-    - scikit-learn, PyTorch, TensorFlow
-    - Object detection in satellite imagery
-
--   :material-earth:{ .lg .middle } **Web Mapping & Data**
+-   :material-star-four-points:{ .lg .middle } **Machine Learning & Geostatistics**
 
     ---
 
-    - Leaflet.js, Folium, MapLibre GL JS
-    - Cloud storage — AWS S3, Google Cloud Storage
-    - Data formats — GeoTIFF, GeoParquet, NetCDF
-    - Streamlit for data-driven web apps
-
--   :material-database:{ .lg .middle } **Data & Cloud**
-
-    ---
-
-    - PostgreSQL + PostGIS
-    - Cloud storage: AWS S3, Google Cloud Storage
-    - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
-
--   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
-
-    - Mission planning and flight operations
-    - Photogrammetry: Agisoft Metashape, OpenDroneMap
-    - Point cloud processing: CloudCompare, PDAL
+    - Supervised classification — Random Forest, KNN, SVM
+    - Neural networks - CNN, RNN, encoder-decoder
+    - Cluster detection - LISA, HH-LL
+    - Spatial interpolation - surface modeling, raster interpolation
 </div>
 
 
