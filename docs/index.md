@@ -5,7 +5,6 @@ hide:
 ---
 <!--
 CHECKLIST FOR THIS PAGE:
-- [ ] Replace assets/images/about.png with your own image (a field photo, map, or workspace shot)
 - [ ] Edit the skill cards to match your actual skills (add, remove, or rename cards as needed)
 - [ ] Update GitHub and LinkedIn links in the Connect section
 - [ ] Add your CV PDF to docs/assets/ and update the filename in the Download CV button
@@ -82,5 +81,5 @@ GeoAI techniques to real-world challenges in land use mapping, climate monitorin
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/miaciceri){ .md-button }
+[LinkedIn](https://linkedin.com/in/mia-ciceri){ .md-button }
