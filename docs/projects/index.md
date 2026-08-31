@@ -14,9 +14,19 @@ CHECKLIST FOR THIS PAGE:
 
 # Projects
 
-A selection of my geospatial projects. Click any card to see the full write-up.
-
 <div class="grid" markdown>
+
+<div class="project-card" markdown>
+![](../assets/images/placeholder-project.png)
+
+**Species Richness Visualization**
+
+Automated a workflow in ArcGIS Pro ModelBuilder to visualize species richness of different animals in Florida.
+
+`ArcGIS Pro` `ModelBuilder` `Raster Analysis`
+
+[View Project →](gis6116.md){ .md-button }
+</div>
 
 <div class="project-card" markdown>
 ![](../assets/images/placeholder-project.png)

@@ -17,16 +17,19 @@ CHECKLIST FOR THIS PAGE:
   <p><em>Geospatial Analysis | Urban Planning | AI/ML</em></p>
 </div>
 
----
-
-## About Me
-
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-Hello! My name is Mia Ciceri, and I am a geospatial analyst with a background in geography, urban planning, and machine learning. I work on extracting actionable insights from remote sensing units and large spatial datasets
-using Python, Google Earth Engine, R, and open-source GIS tools. My abilities in ArcGIS, QGIS, AutoCAD, RStudio, and VSCODE help shape my end-to-end GIS workflows into professional, presentation-ready final deliverables. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban planning. I am currently seeking opportunities in GIS analysis, mapping, and computer engineering in Florida.
+  <h2>About Me</h2>
+  <p>
+    Hello! My name is Mia Ciceri, and I am a geospatial analyst with a background in geography, urban planning, and machine learning. I am a recent University of Florida graduate (go gators!), and I work on extracting actionable insights from remote sensing units and large spatial datasets using Python, Google Earth Engine, R, and open-source GIS software.
+  </p>
+  <p>
+    My abilities in ArcGIS, QGIS, AutoCAD, RStudio, and VSCODE help shape my end-to-end GIS workflows into professional, presentation-ready final deliverables. I am passionate about applying GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban planning. I am currently working in GIS analysis, urban analytics, and computer engineering in Florida.
+  </p>
+  <p>
+    Check out my portfolio to learn about my skills, experience, and projects (including this website I built!)
+  </p>
 
 </div>
 

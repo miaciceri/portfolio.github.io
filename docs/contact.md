@@ -13,19 +13,15 @@ CHECKLIST FOR THIS PAGE:
 - [ ] Delete the ResearchGate row if not applicable
 -->
 
-# Contact
-
-I am open to work opportunities, collaborations, and project discussions.
-Feel free to reach out through any of the channels below.
-
+# Contact Me!
 ---
 
 | | |
 |---|---|
-| :material-email: **Email** | [your-email@example.com](mailto:[YOUR-EMAIL-ADDRESS]) |
-| :fontawesome-brands-github: **GitHub** | [github.com/[YOUR-GITHUB-USERNAME]](https://github.com/[YOUR-GITHUB-USERNAME]) |
-| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/[YOUR-LINKEDIN-USERNAME]](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]) |
-| :material-school: **ResearchGate** | [researchgate.net/profile/[YOUR-PROFILE]](https://www.researchgate.net/profile/[YOUR-PROFILE]) |
+| :material-email: **Email** | [mljciceri@gmail.com](mailto:mljciceri@gmail.com) |
+| :material-phone: **Phone** | <a href="tel:+13526309215">352-630-9215</a>
+| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/mia-ciceri](https://linkedin.com/in/mia-ciceri) |
+| :fontawesome-brands-github: **GitHub** | [github.com/miaciceri](https://github.com/miaciceri) |
 
 ---
 

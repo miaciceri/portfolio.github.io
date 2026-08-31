@@ -7,7 +7,7 @@
 # Edit all lines marked [YOUR ...] to customize your site
 # ============================================================
 
-site_name: "Mia Ciceri - Geospatial Portfolio"
+site_name: "Mia Ciceri Portfolio"
 site_description: "Portfolio of Mia Ciceri — GIS, Remote Sensing, and Spatial Data Science"
 site_author: "Mia Ciceri"
 # After your site is live, uncomment and set this to your actual GitHub Pages URL:
@@ -19,31 +19,36 @@ theme:
   # Browse icons at https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/
   # and replace "material/earth" with any "material/..." icon name you prefer.
   icon:
-    logo: material/earth
+    logo: material/map
   palette:
     # To change the color, edit the 'primary' and 'accent' values below for both
     # the 'default' (light) and 'slate' (dark) schemes.
     # Available colors: red, pink, purple, deep purple, indigo, blue, light blue,
     # cyan, teal, green, light green, lime, yellow, amber, orange, deep orange
     - scheme: default            # Light mode
-      primary: indigo
-      accent: blue
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
+    
     - scheme: slate              # Dark mode
-      primary: indigo
-      accent: blue
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+  
   features:
     - navigation.tabs            # Top-level nav items shown as horizontal tabs
     - navigation.top             # Back-to-top button when scrolling up
+    - navigation.instant          # Instant navigation between pages (no page reload)
+    - navigation.tracking
     - content.code.copy          # Copy button on all code blocks
+  
   font:
-    text: Roboto
-    code: Roboto Mono
+    text: Inter
+    code: JetBrains Mono
 
 extra_css:
   - assets/css/extra.css
@@ -69,7 +74,6 @@ extra:
       link: https://linkedin.com/in/miaciceri
     - icon: material/email
       link: mailto:mljciceri@gmail.com
-
 
 plugins:
   - search
