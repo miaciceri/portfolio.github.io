@@ -19,9 +19,9 @@ CHECKLIST FOR THIS PAGE:
 <div class="project-card" markdown>
 ![](../assets/images/placeholder-project.png)
 
-**Species Richness Visualization**
+**[Minimum Critical Area Analysis](gis6116.md)**
 
-Automated a workflow in ArcGIS Pro ModelBuilder to visualize species richness of different animals in Florida.
+Automated a workflow in ArcGIS Pro ModelBuilder to perform a Minimum Critical Area Analysis from creating species richness maps of different animals in Florida.
 
 `ArcGIS Pro` `ModelBuilder` `Raster Analysis`
 
