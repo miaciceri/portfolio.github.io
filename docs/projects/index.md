@@ -17,15 +17,40 @@ CHECKLIST FOR THIS PAGE:
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
+![](../assets/images/placeholder-notebook.png)
+
+**[Urban Greenery & Urban Heat Island Effect](urp6224.ipynb)**
+
+[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
+and what you found or built.] <!-- FINISH THIS>
+
+`Python` `pandas` `Folium`
+
+[View Project →](urp6224.ipynb){ .md-button }
+</div>
+
+<div class="project-card" markdown>
 ![](../assets/images/placeholder-project.png)
 
 **[Minimum Critical Area Analysis](gis6116.md)**
 
-Automated a workflow in ArcGIS Pro ModelBuilder to perform a Minimum Critical Area Analysis from creating species richness maps of different animals in Florida.
+Automated a workflow in ArcGIS Pro ModelBuilder to perform a Minimum Critical Area Analysis.
 
 `ArcGIS Pro` `ModelBuilder` `Raster Analysis`
 
 [View Project →](gis6116.md){ .md-button }
+</div>
+
+<div class="project-card" markdown>
+![](../assets/images/placeholder-project.png)
+
+**[Subdivision Boundary Survey](sur3323.md)**
+
+Designed a complete boundary survey for a subdivision in AutoCAD Civil3D.
+
+`AutoCAD Civil3D`
+
+[View Project →](sur3323.md){ .md-button }
 </div>
 
 <div class="project-card" markdown>

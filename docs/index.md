@@ -25,7 +25,7 @@ CHECKLIST FOR THIS PAGE:
     Hello! My name is Mia Ciceri, and I am a geospatial analyst with a background in geography, urban planning, and machine learning. I am a recent University of Florida graduate (go gators!), and I work on extracting actionable insights from remote sensing units and large spatial datasets using Python, Google Earth Engine, R, and open-source GIS software.
   </p>
   <p>
-    My abilities in ArcGIS, QGIS, AutoCAD, RStudio, and VSCODE help shape my end-to-end GIS workflows into professional, presentation-ready final deliverables. I am passionate about applying GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban planning. I am currently working in GIS analysis, urban analytics, and computer engineering in Florida.
+    My abilities in ArcGIS, QGIS, AutoCAD, RStudio, and VSCODE help shape my end-to-end GIS workflows into professional, presentation-ready final deliverables. I am passionate about applying GeoAI techniques to real-world challenges in land-use mapping, climate monitoring, and sociodemographics. I am currently working in GIS analysis, urban analytics, and computer engineering in Florida.
   </p>
   <p>
     Check out my portfolio to learn about my skills, experience, and projects (including this website I built!)
